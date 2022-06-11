@@ -6,5 +6,5 @@ Using Python 3.9.13, JupyterLab 3.4.3, VS Code 1.68
 
 ## Results:
 The data about the weather that was received during the analysys.
-![](June.png)
-![](Dec.png)
+![](June.PNG)
+![](Dec.PNG)
