@@ -17,3 +17,7 @@ The data about the weather that was received during the analysys.
 
 ## Summary
 According to result the temperaturies during June and December are suitable for surfing and ice cream demands. While the lowest December temperature (56) is somewhat low the average (71) and max (83) will be keeping demand high.
+Addition data (Precipitation) was analysed:
+![](PRCJ.PNG)
+![](PRCD.PNG)
+
